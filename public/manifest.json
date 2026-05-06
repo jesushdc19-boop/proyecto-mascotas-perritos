@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/dog.PNG",
+      "src": "/launchericon-192x192.png",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
