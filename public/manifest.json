@@ -1,18 +1,14 @@
-{
-  "name": "Proyecto Mascotas",
-  "short_name": "Mascotas",
-  "description": "Cuida a tus perritos con amor",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#fef9f0",
-  "theme_color": "#8b4513",
-  "orientation": "portrait",
-  "icons": [
-    {
-      "src": "/launchericon-192x192.png",
-      "sizes": "any",
-      "type": "image/svg+xml",
+"icons": [
+  {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
       "purpose": "any"
-    }
-  ]
-}
+  },
+  {
+      "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+  }
+]
