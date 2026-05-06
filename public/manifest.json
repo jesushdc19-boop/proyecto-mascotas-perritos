@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/dog.PNG",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
