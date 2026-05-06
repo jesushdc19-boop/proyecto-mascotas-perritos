@@ -285,7 +285,7 @@ export default function App() {
   const [vaccines, setVaccines] = useState<string[]>(DEFAULT_VACCINES);
   const [vet, setVet] = useState<any>(null);
   const [vetForm, setVetForm] = useState(initVet);
-  const [editingVet, setEditingVet] = useState(false);
+  const [, setEditingVet] = useState(false);
 
   const [view, setView] = useState('home');
   const [selectedPet, setSelectedPet] = useState<any>(null);
